@@ -1,0 +1,80 @@
+# 📱 Mobile Sales Dashboard – Project Overview
+
+## 1. Project Title
+**Mobile Sales Dashboard – Power BI**
+
+## 2. Project Overview
+The **Mobile Sales Dashboard** is an interactive business intelligence project developed using **Microsoft Power BI**. The dashboard analyzes mobile sales data to provide a clear view of overall sales performance, customer behavior, transaction patterns, product performance, and time-based sales trends.
+
+The project transforms raw sales data into meaningful visual insights using **Power Query, DAX, data modeling, and interactive visualizations**. Users can filter the dashboard based on mobile model, payment method, brand, year, quarter, month, and day.
+
+## 3. Objectives
+- Analyze overall mobile sales performance.
+- Track total sales, quantity, transactions, and average price.
+- Compare sales performance across different mobile models and brands.
+- Analyze sales distribution across cities.
+- Understand customer rating patterns.
+- Analyze different payment methods used by customers.
+- Identify monthly, quarterly, and daily sales trends.
+- Compare current sales with the same period of the previous year.
+- Analyze Month-to-Date (MTD) sales performance.
+
+## 4. Tools & Technologies
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
+
+## 5. Dashboard Pages
+
+### 📊 1. Main Sales Dashboard
+Provides an overall view of mobile sales performance through:
+- Total Sales
+- Total Quantity
+- Total Transactions
+- Average Price
+- Sales by City
+- Monthly Quantity Trends
+- Customer Ratings
+- Payment Method Analysis
+- Brand Performance
+- Mobile Model Performance
+- Day-wise Sales Analysis
+
+### 📈 2. Same Period Analysis
+This page compares sales performance with the **same period of the previous year**.
+
+It includes:
+- Year-wise comparison
+- Quarterly sales comparison
+- Monthly sales comparison
+- Total Sales vs Same Period Last Year
+- Interactive filters for detailed analysis
+
+### 📅 3. MTD Analysis
+The MTD page focuses on **Month-to-Date sales performance**.
+
+It provides:
+- Daily sales trends
+- Monthly performance
+- Quarterly trends
+- Year-wise analysis
+- Interactive time-based filtering
+
+## 6. Key Insights
+The dashboard helps identify:
+- Sales performance across different cities.
+- Best-performing mobile brands and models.
+- Customer rating distribution.
+- Customer preferences for payment methods.
+- Monthly and quarterly sales patterns.
+- Changes in sales compared with the previous year.
+- Detailed daily and MTD sales trends.
+
+## 7. Conclusion
+The **Mobile Sales Dashboard** demonstrates how Power BI can be used to convert sales data into interactive and actionable business insights. The dashboard enables users to explore sales performance from multiple perspectives and supports better understanding of **products, customers, transactions, locations, and time-based trends**.
+
+## 8. Author
+**Afsha Shaik**  
+B.Tech – Artificial Intelligence & Data Science
