@@ -58,10 +58,6 @@ The objective of this dashboard is to transform mobile
 sales data into meaningful business insights through
 interactive Power BI visualizations.
 
-## 📷 Dashboard Preview
-
-[Add dashboard screenshots here]
-
 ## 👩‍💻 Created By
 
 Afsha Shaik
